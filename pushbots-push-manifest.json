@@ -1,0 +1,7 @@
+{
+  "name": "sandbox.alishaan.work",
+  "short_name": "SandboxSite",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "519659307484"
+}
